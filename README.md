@@ -11,4 +11,4 @@ The following manually-curated files are available upon reasonable request to th
   * PrimaryVsMet_ADC_predictors_FDR.txt
   * ADC_toxicities.xlsx
 
-For any technical quetion about the code and the data please write an e-mail to dugo.matteo@hsr.it.
+For any technical question about the code and the data please write an e-mail to dugo.matteo@hsr.it.
